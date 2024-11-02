@@ -1,7 +1,7 @@
 from tkinter import Entry, Button, messagebox, StringVar, SINGLE, END
-from src.controllers.calculator_logic import calculate_advanced
+from src.controllers.logic import calculate_advanced
 
-class Calculator:
+class views:
     def __init__(self, root):
         # Inicializa la ventana principal de la calculadora
         self.root = root
