@@ -1,7 +1,5 @@
 # **Creación de Interfaz Gráfica - Avanzadas**
 
-En este documento se presentan una serie de **proyectos de programación** centrados en la creación de **aplicaciones con interfaz gráfica**. Estos proyectos abarcan desde una **calculadora gráfica** hasta un **gestor de tareas** y un **conversor de unidades**, cada uno diseñado para ofrecer funcionalidades útiles y mejorar la experiencia del usuario. A través de estas aplicaciones, se busca desarrollar habilidades en programación y diseño de interfaces, implementando tanto operaciones básicas como funciones avanzadas.
-
 ## **1. Calculadora Gráfica**
 Crear una **calculadora** con interfaz gráfica que realice operaciones básicas y algunas funciones avanzadas. La aplicación debe incluir:
 
